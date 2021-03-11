@@ -1,0 +1,33 @@
+{
+  "name": "tokyo-night-frameless",
+  "displayName": "Tokyo Night Frameless",
+  "description": "Frameless themes based on Enkia's Tokyo Night.",
+  "version": "0.0.1",
+  "publisher": "magdalenalipka",
+  "repository": "",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Night Storm Frameless",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Night Storm Frameless-color-theme.json"
+      },
+      {
+        "label": "Tokyo Night Frameless",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Night Frameless-color-theme.json"
+      },
+      {
+        "label": "Tokyo Night Light Frameless",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Night Light Frameless-color-theme.json"
+      }
+    ]
+  }
+}
