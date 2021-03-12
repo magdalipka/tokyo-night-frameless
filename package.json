@@ -4,7 +4,7 @@
   "description": "Frameless themes based on Enkia's Tokyo Night.",
   "version": "0.0.1",
   "publisher": "magdalenalipka",
-  "repository": "",
+  "repository": "https://github.com/magdalenalipka/tokyo-night-frameless",
   "engines": {
     "vscode": "^1.54.0"
   },
