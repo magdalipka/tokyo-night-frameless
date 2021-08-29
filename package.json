@@ -5,6 +5,11 @@
   "version": "0.1.4",
   "publisher": "MagdalenaLipka",
   "repository": "https://github.com/magdalenalipka/tokyo-night-frameless",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1f2335",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.54.0"
   },
