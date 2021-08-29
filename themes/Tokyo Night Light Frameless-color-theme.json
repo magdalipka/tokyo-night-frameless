@@ -11,7 +11,6 @@
         "badge.background": "#d5d6db",
         "badge.foreground": "#4c505e",
         "icon.foreground": "#4c505e",
-        "imagePreview.border": "#4c505e33",
         "settings.headerForeground": "#34548a",
         "window.activeBorder": "#d5d6db",
         "window.inactiveBorder":"#d5d6db",
@@ -27,7 +26,7 @@
         "button.foreground": "#ffffff",
         "progressBar.background": "#34548a",
 
-        "input.background": "#d5d6db",
+        "input.background": "#c1c2c7",
         "input.foreground": "#4c505e",
         "input.border": "#c1c2c7",
         "input.placeholderForeground": "#4a5272",
@@ -49,7 +48,7 @@
         "dropdown.listBackground": "#d5d6db",
 
 
-        // "activityBar.backrground": "#cbccd1",
+        "activityBar.background": "#d5d6db",
         "activityBar.foreground": "#4c505e",
         "activityBar.inactiveForeground": "#828594", //#3b4261
         "activityBar.border": "#d5d6db",
@@ -70,14 +69,12 @@
         "list.deemphasizedForeground":"#4c505e",
         "list.activeSelectionBackground": "#d5d6db",
 
-        "quickInput.list.focusBackground": "#d5d6db",
-
         "list.activeSelectionForeground": "#4c505e",
         "list.inactiveSelectionBackground": "#d5d6db",
         "list.inactiveSelectionForeground": "#4c505e",
         "list.focusBackground": "#d5d6db",
         "list.focusForeground": "#4c505e",
-        "list.hoverBackground": "#d5d6db",
+        "list.hoverBackground": "#c1c2c7",
         "list.hoverForeground": "#4c505e",
 
         "list.highlightForeground": "#34548a",
@@ -91,10 +88,15 @@
 
         "pickerGroup.foreground": "#4c505e",
         "pickerGroup.border": "#d5d6db",
+        "quickInputList.focusBackground": "#34548a",
+        "quickInputList.focusForeground": "#ffffff",
+        "quickInputList.focusIconForeground": "#ffffff",
 
-        "scrollbarSlider.background": "#d5d6db",
-        "scrollbarSlider.hoverBackground": "#90929620",
-        "scrollbarSlider.activeBackground": "#90929632",
+        "keybindingLabel.foreground": "#34548a",
+
+        "scrollbarSlider.background": "#4c505e22",
+        // "scrollbarSlider.hoverBackground": "#4c505edd",
+        // "scrollbarSlider.activeBackground": "#4c505edd",
 
         "selection.background": "#fafbff55",
         "editor.background": "#d5d6db",
@@ -211,7 +213,7 @@
         "tab.hoverForeground": "#383b45",
         "tab.activeBorder": "#637dbf",
         "tab.inactiveForeground": "#4c505e",
-        "tab.border": "#c1c2c7",
+        "tab.border": "#d5d6db",
         "tab.unfocusedActiveForeground": "#383b45",
         "tab.unfocusedInactiveForeground": "#4c505e",
         "tab.unfocusedHoverForeground": "#383b45",
@@ -228,8 +230,8 @@
         "panelInput.border": "#d5d6db",
 
         "statusBar.foreground": "#4c505e",
-        "statusBar.background": "#cbccd1",
-        "statusBar.border": "#c1c2c7",
+        "statusBar.background": "#d5d6db",
+        "statusBar.border": "#d5d6db",
         "statusBar.noFolderBackground": "#d5d6db",
         "statusBar.debuggingBackground": "#d5d6db",
         "statusBar.debuggingForeground": "#4c505e",
@@ -279,7 +281,7 @@
         "debugIcon.continueForeground": "#3e6396",
         "debugIcon.stepBackForeground": "#3e6396",
 
-        "terminal.background": "#cbccd1",
+        "terminal.background": "#d5d6db",
         "terminal.foreground": "#4c505e",
         "terminal.selectionBackground": "#d5d6db20",
         "terminalCursor.foreground": "#828594",

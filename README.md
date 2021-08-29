@@ -2,13 +2,26 @@
 
 Frameless versions of [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme).
 
+## Tokyo Night Frameless
+
+![Screenshot - Tokyo Night Frameless](https://raw.githubusercontent.com/magdalenalipka/tokyo-night-frameless/master/static/ss_tokyo_night.png)
+
+## Tokyo Night Storm Frameless
+
+![Screenshot - Tokyo Night Frameless](https://raw.githubusercontent.com/magdalenalipka/tokyo-night-frameless/master/static/ss_tokyo_night.png)
+
+## Tokyo Night Light Frameless
+
+![Screenshot - Tokyo Night Frameless](https://raw.githubusercontent.com/magdalenalipka/tokyo-night-frameless/master/static/ss_tokyo_night.png)
+
 TODO:
 
 - [ ] remove shadows
-- [ ] light theme terminal colour
-- [ ] light theme tabs borders
-- [ ] light theme search panel input boxes
-- [ ] light theme drop down list
+- [x] light theme terminal colour
+- [x] light theme tabs borders
+- [x] light theme search panel input boxes
+- [x] light theme drop down list
+- [ ] light theme empty window text colour
 - [ ] night theme terminal colour
 - [ ] night theme border between terminal and scroll
 - [ ] night theme git diff title panel colour
