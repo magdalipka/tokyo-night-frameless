@@ -8,11 +8,11 @@ Frameless versions of [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-
 
 ## Tokyo Night Storm Frameless
 
-![Screenshot - Tokyo Night Frameless](https://raw.githubusercontent.com/magdalenalipka/tokyo-night-frameless/master/static/ss_tokyo_night.png)
+![Screenshot - Tokyo Night Frameless](https://raw.githubusercontent.com/magdalenalipka/tokyo-night-frameless/master/static/ss_tokyo_night_storm.png)
 
 ## Tokyo Night Light Frameless
 
-![Screenshot - Tokyo Night Frameless](https://raw.githubusercontent.com/magdalenalipka/tokyo-night-frameless/master/static/ss_tokyo_night.png)
+![Screenshot - Tokyo Night Frameless](https://raw.githubusercontent.com/magdalenalipka/tokyo-night-frameless/master/static/ss_tokyo_night_light.png)
 
 TODO:
 
