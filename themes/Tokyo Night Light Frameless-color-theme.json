@@ -6,8 +6,6 @@
         "descriptionForeground": "#7b7f8c",
         "focusBorder": "#d5d6db",
         "errorForeground": "#5a607d",
-        "widget.shadow": "#ffffff00",
-        "scrollbar.shadow": "#00000000",
         "badge.background": "#d5d6db",
         "badge.foreground": "#4c505e",
         "icon.foreground": "#4c505e",
@@ -47,7 +45,6 @@
         "dropdown.border": "#d5d6db",
         "dropdown.listBackground": "#d5d6db",
 
-
         "activityBar.background": "#d5d6db",
         "activityBar.foreground": "#4c505e",
         "activityBar.inactiveForeground": "#828594", //#3b4261
@@ -68,6 +65,7 @@
         "list.dropBackground": "#d5d6db",
         "list.deemphasizedForeground":"#4c505e",
         "list.activeSelectionBackground": "#d5d6db",
+        "list.focusHighlightForeground": "#d5d6db",
 
         "list.activeSelectionForeground": "#4c505e",
         "list.inactiveSelectionBackground": "#d5d6db",
@@ -344,7 +342,7 @@
         "menu.selectionForeground":"#343b58",
         "menu.selectionBackground":"#7a85a8",
         "menu.separatorBackground":"#c1c2c7",
-        "menu.border":"#c1c2c7"
+        "menu.border":"#c1c2c7",
     },
     "tokenColorCustomizations": {
         "property.readonly": {
