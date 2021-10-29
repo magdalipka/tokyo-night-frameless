@@ -89,7 +89,6 @@
         "quickInputList.focusBackground": "#fafbff",
         "quickInputList.focusForeground": "#4c505e",
         "quickInputList.focusIconForeground": "#4c505e",
-        "widget.shadow": "#00000010",
 
         "keybindingLabel.foreground": "#34548a",
 
