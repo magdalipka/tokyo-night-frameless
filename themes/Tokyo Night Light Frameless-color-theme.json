@@ -65,7 +65,7 @@
         "list.dropBackground": "#d5d6db",
         "list.deemphasizedForeground":"#4c505e",
         "list.activeSelectionBackground": "#d5d6db",
-        "list.focusHighlightForeground": "#d5d6db",
+        "list.focusHighlightForeground": "#34548a",
 
         "list.activeSelectionForeground": "#4c505e",
         "list.inactiveSelectionBackground": "#d5d6db",
@@ -86,9 +86,10 @@
 
         "pickerGroup.foreground": "#4c505e",
         "pickerGroup.border": "#d5d6db",
-        "quickInputList.focusBackground": "#34548a",
-        "quickInputList.focusForeground": "#ffffff",
-        "quickInputList.focusIconForeground": "#ffffff",
+        "quickInputList.focusBackground": "#fafbff",
+        "quickInputList.focusForeground": "#4c505e",
+        "quickInputList.focusIconForeground": "#4c505e",
+        "widget.shadow": "#00000010",
 
         "keybindingLabel.foreground": "#34548a",
 

@@ -17,10 +17,12 @@ Frameless versions of [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-
 TODO:
 
 - [ ] remove shadows
+- [ ] align to original theme
 - [x] light theme terminal colour
 - [x] light theme tabs borders
 - [x] light theme search panel input boxes
 - [x] light theme drop down list
+- [ ] light theme active text suggestions are too white
 - [ ] light theme empty window text colour
 - [ ] night theme terminal colour
 - [ ] night theme border between terminal and scroll
