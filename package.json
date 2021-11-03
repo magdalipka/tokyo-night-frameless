@@ -30,7 +30,7 @@
       },
       {
         "label": "Tokyo Night Light Frameless",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/Tokyo Night Light Frameless-color-theme.json"
       }
     ]

@@ -221,7 +221,7 @@
         "tab.lastPinnedBorder": "#2c3147",
 
         "panel.background": "#1f2335",
-        "panel.border": "#1b1e2e",
+        "panel.border": "#1b1e2e00",
         "panelTitle.activeForeground": "#7982a9",
         "panelTitle.inactiveForeground": "#545c7e",
         "panelTitle.activeBorder": "#1f2335",

@@ -219,11 +219,11 @@
         "tab.unfocusedActiveBorder": "#1a1b26",
         "tab.lastPinnedBorder": "#1a1b26",
 
-        "panel.background": "#16161e",
-        "panel.border": "#101014",
+        "panel.background": "#1a1b26",
+        "panel.border": "#1a1b26",
         "panelTitle.activeForeground": "#787c99",
         "panelTitle.inactiveForeground": "#42465d",
-        "panelTitle.activeBorder": "#16161e",
+        "panelTitle.activeBorder": "#16161e00",
         "panelInput.border": "#16161e",
 
         "statusBar.foreground": "#787c99",
@@ -274,7 +274,7 @@
         "debugTokenExpression.number":"#ff9e64",
         "debugTokenExpression.error":"#bb616b",
 
-        "terminal.background": "#16161e",
+        "terminal.background": "#1a1b26",
         "terminal.foreground": "#787c99",
         "terminal.selectionBackground": "#515c7e30",
         // "terminalCursor.background": "",
