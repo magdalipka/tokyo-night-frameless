@@ -358,6 +358,9 @@
         //     "fontStyle": "underline"
         // }
     },
+    
+    "semanticHighlighting": true,
+
     "tokenColors": [
         {
             "name": "Italics - Comments, Storage, Keyword Flow, Vue attributes, Decorators",

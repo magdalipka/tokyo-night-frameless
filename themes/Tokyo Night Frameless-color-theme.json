@@ -340,6 +340,9 @@
         "menu.separatorBackground":"#101014",
         "menu.border":"#101014"
     },
+    
+    "semanticHighlighting": true,
+
     "tokenColors": [
         {
             "name": "Italics - Comments, Storage, Keyword Flow, Vue attributes, Decorators",
