@@ -1,0 +1,23 @@
+on:
+    push:
+      branches:
+        - master
+name: Release
+jobs:
+    package:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v2
+        - run: npm install
+        - uses: lannonbr/vsce-action@3.0.0
+          with:
+            args: "package"
+        - uses: "marvinpinto/action-automatic-releases@latest"
+          with:
+            repo_token: "${{ secrets.GITHUB_TOKEN }}"
+            automatic_release_tag: "master"
+            prerelease: true
+            title: "master branch development build"
+            files: |
+              LICENSE
+              *.vsix
